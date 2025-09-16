@@ -14,6 +14,7 @@ MySQL - 10.4.32-MariaDB : Database - arsip_surat
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`arsip_surat` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */;
 
+USE `arsip_surat`;
 /*Table structure for table `kategoris` */
 
 DROP TABLE IF EXISTS `kategoris`;
@@ -34,8 +35,6 @@ insert  into `kategoris`(`id`,`nama_kategori`,`keterangan`,`created_at`,`updated
 (2,'Undangan','Undangan rapat, koordinasi, dsb.','2025-09-14 23:05:20','2025-09-14 23:05:20'),
 (3,'Nota Dinas','Nota dinas internal antar unit kerja','2025-09-14 23:05:20','2025-09-14 23:05:20'),
 (5,'Pemberitahuan','Pemberitahuan/infos penting kepada pihak terkait','2025-09-14 16:40:50','2025-09-14 16:46:52');
-
-USE `arsip_surat`;
 
 /*Table structure for table `arsips` */
 
