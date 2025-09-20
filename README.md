@@ -75,28 +75,40 @@ Akses aplikasi di browser:
 
 ### Arsip Surat
 - **Halaman Arsip**
+<img width="1365" height="720" alt="arsip" src="https://github.com/user-attachments/assets/c9dd2390-30b5-4d8d-9c0a-3ba8b066301f" />
 
 - **Tambah Arsip**
+<img width="1365" height="716" alt="tambah arsip" src="https://github.com/user-attachments/assets/f57dd906-f54b-4681-b977-94a818cd2f79" />
 
 - **Lihat Arsip**
+<img width="1365" height="717" alt="lihat arsip" src="https://github.com/user-attachments/assets/c2f16d22-8375-4a99-8b73-221d995a6a62" />
 
 - **Hapus Arsip**
+<img width="1365" height="717" alt="hapus arsip" src="https://github.com/user-attachments/assets/a209e8b1-1d83-4d91-a4ba-3675c1d94e48" />
 
 - **Cari Arsip**
+<img width="1365" height="719" alt="cari arsip surat" src="https://github.com/user-attachments/assets/d005898d-7bed-421e-8a56-ab20966c06d0" />
 
 ---
 
 ### Kategori Surat
 - **Halaman Kategori**
+<img width="1365" height="720" alt="kategori" src="https://github.com/user-attachments/assets/8153da5f-e7ab-4f46-8aa9-487c53c84e8d" />
 
 - **Tambah Kategori**
+  <img width="1365" height="720" alt="tambah kategori" src="https://github.com/user-attachments/assets/9f2ef08e-76bb-415a-b58c-db3b4e5bc5db" />
+
 - **Edit Kategori**
+<img width="1365" height="717" alt="edit kategori" src="https://github.com/user-attachments/assets/45ea1689-1f09-4e75-9075-d4e73db6216a" />
 
 - **Hapus Kategori**
+<img width="1365" height="718" alt="hapus kategori" src="https://github.com/user-attachments/assets/d3d1c6a4-b3e9-4e4d-b434-f5123863a909" />
 
 - **Cari Kategori**
+<img width="1365" height="718" alt="cari kategori" src="https://github.com/user-attachments/assets/b86ee72d-8530-4635-b35c-54a8d4e9dbab" />
 
 ---
 
 ### About
 - **Halaman About**
+<img width="1365" height="720" alt="about" src="https://github.com/user-attachments/assets/a08a4e3d-75bc-4b6c-8621-795e9d3f5287" />
