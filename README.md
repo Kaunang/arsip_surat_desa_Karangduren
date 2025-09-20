@@ -10,8 +10,6 @@ Dengan adanya aplikasi ini, surat dapat dikelola dengan lebih rapi, mudah dicari
 - CRUD **Kategori Surat** (Tambah, Edit, Hapus, Lihat)  
 - CRUD **Arsip Surat** (Tambah, Edit, Hapus, Lihat)  
 - Unggah file **PDF** untuk setiap surat  
-- Pencarian arsip berdasarkan kategori atau kata kunci  
-
 ---
 
 ## 🚀 Cara Menjalankan
