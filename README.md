@@ -71,3 +71,32 @@ Akses aplikasi di browser:
 👉 [http://127.0.0.1:8000/arsip](http://127.0.0.1:8000/arsip)
 
 ---
+## 📸 Screenshot Aplikasi
+
+### Arsip Surat
+- **Halaman Arsip**
+
+- **Tambah Arsip**
+
+- **Lihat Arsip**
+
+- **Hapus Arsip**
+
+- **Cari Arsip**
+
+---
+
+### Kategori Surat
+- **Halaman Kategori**
+
+- **Tambah Kategori**
+- **Edit Kategori**
+
+- **Hapus Kategori**
+
+- **Cari Kategori**
+
+---
+
+### About
+- **Halaman About**
